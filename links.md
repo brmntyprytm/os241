@@ -28,7 +28,13 @@ Provided in Week 2 slides that I think is important know what you can do as a fi
 * [StudySmarter - File Systems](https://www.studysmarter.co.uk/explanations/computer-science/computer-systems/file-systems/)
 Very easy and digestible article that aims to break down file systems into its intricacies while still being an easy read.
 
+* [PowerCertAnimatedVideos](https://www.youtube.com/watch?v=bYjQakUxeVY)
+Concise video about file systems to differentiate different types of systems like FAT32, EXFAT and NTFS.
+
 ### W04
 
 * [StackExchange - Sorting down processes by memory usage](https://unix.stackexchange.com/questions/92493/sorting-down-processes-by-memory-usage)
-Came across this while searching for another thing, and thought it was cool to share what processes are running in the system, sorts it by memory usage.
+Came across this while searching for another thing, and thought it was cool to share what processes are running in the system, sorts it by memory usage
+
+* [Oracle - Pointers and Arrays](https://docs.oracle.com/cd/E19253-01/817-6223/chp-pointers/index.html#:~:text=Pointers%20are%20memory%20addresses%20of,in%20variables%20and%20associative%20arrays.).
+Reads more like a book than an article but this clears up my misconceptions about pointers and arrays, provides ways to manipulate pointers and also arrays.

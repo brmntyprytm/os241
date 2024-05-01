@@ -1,4 +1,7 @@
-ZCZC W07 30 L06 Browsing related
+ZCZC W08 30 L05 QUIZ related
+ZCZC W08 120 L09 Assignment related
+ZCZC W08 100 L02 Classroom related
+ZCZC W07 120 L09 Assignment related
 ZCZC W07 30 L00 General related
 ZCZC W07 120 L09 Assignment related
 ZCZC W06 30 L05 QUIZ related

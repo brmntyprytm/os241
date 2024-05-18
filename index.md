@@ -2,8 +2,8 @@
 
 ## brmntyprytm
 
-| MYLOG                      | GitHub Repo                                         | GitHub Pages                                  | Links           |
-| -------------------------- | --------------------------------------------------- | --------------------------------------------- | --------------- |
-| [mylog.txt](TXT/mylog.txt) | [brmntyprytm](https://github.com/brmntyprytm/os241) | [os241](https://brmntyprytm.github.io/os241/) | [LINKS](LINKS/) |
+| MYLOG                      | GitHub Repo                                         | GitHub Pages                                  | Links           | Tips          |
+| -------------------------- | --------------------------------------------------- | --------------------------------------------- | --------------- | ------------- |
+| [mylog.txt](TXT/mylog.txt) | [brmntyprytm](https://github.com/brmntyprytm/os241) | [os241](https://brmntyprytm.github.io/os241/) | [LINKS](LINKS/) | [TIPS](TIPS/) |
 
-#### REV 01: Sun 11 Feb 2024 15:50
+#### REV 02: Sat 18 May 2024 11:15
